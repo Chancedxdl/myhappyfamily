@@ -6,7 +6,7 @@
 
 <style>
 body {
-  background:url("https://chancedxdl.github.io/jxbirthdayphoto/bg.jpg")  no-repeat center;
+  background: a.jpg no-repeat center;
   height: 100vh;
   overflow: hidden;
 }
