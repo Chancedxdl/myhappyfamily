@@ -7,7 +7,7 @@
 <style>
 body {
   background:url("https://chancedxdl.github.io/myhappyfamily/a.jpg")  no-repeat center;
-  height: 100vh;
+  height: 50vh;
   overflow: hidden;
 }
 
